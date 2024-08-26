@@ -3,8 +3,8 @@
 ---
 
 ## Links
-- https://www.rit.edu
-- [RIT](https://www.rit.edu)
+- https://www.rit.edu/
+- [RIT](https://www.rit.edu/)
 
 ## Colors-
 
