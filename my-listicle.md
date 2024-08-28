@@ -11,7 +11,6 @@
 ---
 
 # **Anime Fighters**
-## Anime Fighters
 
 ## [Guilty Gear](https://www.guiltygear.com/ggst/en/)
 
