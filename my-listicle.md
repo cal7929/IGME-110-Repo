@@ -2,8 +2,6 @@
 
 ---
 
-![an image](md-images/cassie.jpg)
-
 # **Classic Fighters**
 
 ## [Street Fighter 6](https://www.streetfighter.com/6/en-us)
