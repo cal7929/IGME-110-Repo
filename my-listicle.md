@@ -14,7 +14,7 @@
 
 ## [Guilty Gear](https://www.guiltygear.com/ggst/en/)
 
-## [Dragon Ball Fighterz](https://www.bandainamcoent.com/games/dragon-ball-fighterz)
+## [Dragon Ball FighterZ](https://www.bandainamcoent.com/games/dragon-ball-fighterz)
 
 ---
 
