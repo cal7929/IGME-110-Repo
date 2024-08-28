@@ -2,7 +2,7 @@
 
 ---
 
-# Classic Fighters
+# *Classic Fighters*
 
 ## [Street Fighter 6](https://www.streetfighter.com/6/en-us)
 
