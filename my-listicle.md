@@ -2,7 +2,7 @@
 
 ---
 
-# __Classic Fighters__
+# **Classic Fighters**
 
 ## [Street Fighter 6](https://www.streetfighter.com/6/en-us)
 
@@ -11,6 +11,7 @@
 ---
 
 # **Anime Fighters**
+# Anime Fighters
 
 ## [Guilty Gear](https://www.guiltygear.com/ggst/en/)
 
