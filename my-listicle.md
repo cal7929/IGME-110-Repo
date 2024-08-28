@@ -4,4 +4,6 @@
 
 ## [Street Fighter 6](https://www.streetfighter.com/6/en-us)
 
-##[Mortal Kombat 1](https://www.mortalkombat.com/en-us)
+## [Mortal Kombat 1](https://www.mortalkombat.com/en-us)
+
+## [Dragon Ball Fighterz](https://www.bandainamcoent.com/games/dragon-ball-fighterz)
