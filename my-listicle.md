@@ -1,10 +1,6 @@
 # My Listicle of Fighting Games
 
-
-
 ---
-
-
 
 # Classic Fighters
 
@@ -12,7 +8,7 @@
 
 ## [Mortal Kombat 1](https://www.mortalkombat.com/en-us)
 
-
+---
 
 # Anime Fighters
 
@@ -20,7 +16,7 @@
 
 ## [Dragon Ball Fighterz](https://www.bandainamcoent.com/games/dragon-ball-fighterz)
 
-
+---
 
 # Platform Fighters
 
