@@ -6,7 +6,7 @@
 
 # **Classic Fighters**
 
-## (*) [Street Fighter 6](https://www.streetfighter.com/6/en-us)
+## *[Street Fighter 6](https://www.streetfighter.com/6/en-us)
 
 ## - [Mortal Kombat 1](https://www.mortalkombat.com/en-us)
 
